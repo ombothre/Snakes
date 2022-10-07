@@ -1,0 +1,18 @@
+Snakes - THE RETRO VERSION
+
+1. Your snake's objective is to keep eating
+
+2. your score will increase by 10 points when you eat 1 gem
+   and by 20 if you eat a golden gem
+
+3. if you hit the wall or eat yourself, you are out
+
+4. press any arrow to start the game
+
+5. the snake can go up, down, left or right
+
+6. press w & s to increase and decrease speed
+
+6. press enter to pause, and space to unpause
+
+	make your high score!
